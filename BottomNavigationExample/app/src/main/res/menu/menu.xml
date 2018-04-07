@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_search"
+        android:title="1"
+        android:icon="@android:drawable/star_big_on" />
+    <item android:id="@+id/action_settings"
+        android:title="2"
+        android:icon="@android:drawable/ic_dialog_alert" />
+    <item android:id="@+id/action_navigation"
+        android:title="3"
+        android:icon="@android:drawable/ic_menu_agenda" />
+</menu>
